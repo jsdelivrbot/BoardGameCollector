@@ -4,5 +4,6 @@
   "repository": "https://github.com/msa2984/BoardGameCollector",
   "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/master/public/node.svg",
   "keywords": ["node", "heroku", "search", "database"],
+  "buildpacks": "heroku/nodejs",
   "image": "heroku/nodejs"
 }
