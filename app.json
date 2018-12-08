@@ -2,7 +2,7 @@
   "name": "Board Game Collector",
   "description": "A Web application for viewing a collection of personal board games.",
   "repository": "https://github.com/msa2984/BoardGameCollector",
-  "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/master/public/node.svg",
+  "logo": "https://cdn.jsdelivr.net/gh/heroku/node-js-getting-started@master/public/node.svg",
   "keywords": ["node", "heroku", "search", "database"],
   "buildpacks": "heroku/nodejs",
   "image": "heroku/nodejs"
